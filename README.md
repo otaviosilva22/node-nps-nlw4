@@ -18,7 +18,7 @@ Projeto desenvolvido durante a Next Level Week 4 na trilha de Node.js.
 
 <h2> Sobre </h2>
 
-O evento foi realizado pela RocketSeat, tendo como instrutora <a href="https://github.com/danileao"> Daniele Leão </a>. O objetivo dessa trilha envolvia a criação de um sistema de NPS (Net Promoter Score), abordando diversos aspectos que envolvem Node.js de alguma forma.
+O evento foi realizado pela RocketSeat, tendo <a href="https://github.com/danileao">Daniele Leão</a> como instrutora. O objetivo dessa trilha envolvia a criação de um sistema de NPS (Net Promoter Score), abordando diversos aspectos que envolvem o Node.js.
 
 
 <h2> Contato </h2>
