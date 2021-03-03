@@ -2,15 +2,11 @@
 
 Projeto desenvolvido durante a Next Level Week 4 na trilha de Node.js.
 
-<h2> Principais tecnologias e bibliotecas utilizadas</h2>
+<h2> Tecnologias utilizadas</h2>
 
 - [Node.Js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
 - [TypeORM](https://typeorm.io/#/)
-- [Beekeaper](https://www.beekeeperstudio.io/)
-- [Insomnia](https://insomnia.rest/download/)
-- [SQLite](https://www.sqlite.org/index.html)
 - [Handlebars](https://handlebarsjs.com/)
 - [NodeMailer](https://nodemailer.com/about/)
 - [Jest](https://jestjs.io/)
@@ -18,7 +14,7 @@ Projeto desenvolvido durante a Next Level Week 4 na trilha de Node.js.
 
 <h2> Sobre </h2>
 
-O evento foi realizado pela RocketSeat, tendo <a href="https://github.com/danileao">Daniele Leão</a> como instrutora. O objetivo dessa trilha envolvia a criação de um sistema de NPS (Net Promoter Score), abordando diversos aspectos que envolvem o Node.js.
+O evento foi realizado pela RocketSeat, tendo <a href="https://github.com/danileao">Daniele Leão</a> como instrutora. O objetivo dessa trilha envolvia a criação de um sistema de NPS (Net Promoter Score), abordando diversos aspectos do Node.js.
 
 
 <h2> Contato </h2>
